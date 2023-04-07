@@ -302,7 +302,7 @@ header .links ul li:not(:last-child) {
   color: var(--p-clr);
   font-weight: 300;
   line-height: var(--p-line-height);
-  width: 40ch;
+  max-width: 40ch;
   text-align: center;
 }
 
